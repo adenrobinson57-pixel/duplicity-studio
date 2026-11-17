@@ -1,0 +1,2 @@
+# duplicity-studio
+Assets.
